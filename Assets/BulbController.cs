@@ -9,7 +9,7 @@ public class BulbController : MonoBehaviour {
     public SwitchController manualSwitch;
     public SwitchController autoSwitch;
 
-    //gitHub change test
+    
 
 	// Use this for initialization
 	void Start () {
